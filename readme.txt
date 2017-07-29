@@ -8,3 +8,6 @@ Git tracks changes of files.
 creat a new branch is quick;
 add new branch featurel;
 hello m
+bug text;
+add vulcan;
+公布处罚过 
